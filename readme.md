@@ -1,5 +1,4 @@
-# タイトル
-チーズアカデミー
+# チーズアカデミー
 
 ## デモ
 https://yuhei0909.github.io/00_CheeseACADEMY/
